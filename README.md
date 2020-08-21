@@ -1,1 +1,1 @@
-# 202002_s_devops-aula01
+Primeiro repositório da disciplina de DevOps
